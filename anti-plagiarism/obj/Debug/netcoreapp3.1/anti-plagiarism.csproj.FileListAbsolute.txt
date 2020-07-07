@@ -1,0 +1,13 @@
+D:\projects\anti-plagiarism\anti-plagiarism\bin\Debug\netcoreapp3.1\anti-plagiarism.exe
+D:\projects\anti-plagiarism\anti-plagiarism\bin\Debug\netcoreapp3.1\anti-plagiarism.deps.json
+D:\projects\anti-plagiarism\anti-plagiarism\bin\Debug\netcoreapp3.1\anti-plagiarism.runtimeconfig.json
+D:\projects\anti-plagiarism\anti-plagiarism\bin\Debug\netcoreapp3.1\anti-plagiarism.runtimeconfig.dev.json
+D:\projects\anti-plagiarism\anti-plagiarism\bin\Debug\netcoreapp3.1\anti-plagiarism.dll
+D:\projects\anti-plagiarism\anti-plagiarism\bin\Debug\netcoreapp3.1\anti-plagiarism.pdb
+D:\projects\anti-plagiarism\anti-plagiarism\obj\Debug\netcoreapp3.1\anti-plagiarism.csprojAssemblyReference.cache
+D:\projects\anti-plagiarism\anti-plagiarism\obj\Debug\netcoreapp3.1\anti-plagiarism.AssemblyInfoInputs.cache
+D:\projects\anti-plagiarism\anti-plagiarism\obj\Debug\netcoreapp3.1\anti-plagiarism.AssemblyInfo.cs
+D:\projects\anti-plagiarism\anti-plagiarism\obj\Debug\netcoreapp3.1\anti-plagiarism.csproj.CoreCompileInputs.cache
+D:\projects\anti-plagiarism\anti-plagiarism\obj\Debug\netcoreapp3.1\anti-plagiarism.dll
+D:\projects\anti-plagiarism\anti-plagiarism\obj\Debug\netcoreapp3.1\anti-plagiarism.pdb
+D:\projects\anti-plagiarism\anti-plagiarism\obj\Debug\netcoreapp3.1\anti-plagiarism.genruntimeconfig.cache
